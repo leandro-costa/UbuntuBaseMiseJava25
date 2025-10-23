@@ -6,13 +6,13 @@
 	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
 	"features": {
 		"ghcr.io/roul/devcontainer-features/mise-java:1": {},
-		"ghcr.io/devcontainers-extra/features/maven-sdkman:2": {}
 	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
 				"vscjava.vscode-java-pack",
-				"MS-CEINTL.vscode-language-pack-pt-BR"
+				"MS-CEINTL.vscode-language-pack-pt-BR",
+		        "hverlin.mise-vscode"
 			]
 		}
 	}

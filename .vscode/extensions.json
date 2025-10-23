@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ms-ceintl.vscode-language-pack-pt-br",
-        "vscjava.vscode-java-pack"
+        "vscjava.vscode-java-pack",
+        "hverlin.mise-vscode"
     ]
 }
